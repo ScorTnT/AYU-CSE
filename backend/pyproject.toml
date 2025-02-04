@@ -1,0 +1,6 @@
+[project]
+name = "AYU-CSE-BACKEND"
+version = "0.0.1"
+description = "Anyang University CSE"
+requires-python = ">=3.13"
+dependencies = []
