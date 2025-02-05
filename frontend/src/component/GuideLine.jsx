@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./GuideLine.css";
+import "../css/GuideLine.css";
 
 function GuideLine() {
   return <>AYU-CSE</>;
