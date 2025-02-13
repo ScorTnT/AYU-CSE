@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "../css/GuideLine.css";
+import "../styles/GuideLine.css";
 
 function Cse() {
   const [cse, setCse] = useState("AYU - CSE");
@@ -10,9 +10,11 @@ function Cse() {
   );
 }
 function GuideLine() {
-  return <>
-    <Cse />
-  </>;
+  return (
+    <>
+      <Cse />
+    </>
+  );
 }
 
 export default GuideLine;
